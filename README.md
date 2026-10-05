@@ -1,2 +1,2 @@
 # Clymax
-Aplicativo utilizado para monitoramento de temperatura e umidade via IoT e ESP32, com gráficos integrados do Python e UI desenvolvida pelo Flutter
+Aplicativo utilizado para monitoramento de temperatura e umidade via IoT e ESP32, com gráficos integrados do Python e UI desenvolvida pelo Flutter.
